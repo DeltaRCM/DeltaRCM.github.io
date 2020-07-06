@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<?xml version="1.0" encoding="utf-8"?><html><body><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="deltarcm.github.io/feed.xml" rel="self" type="application/atom+xml">
+<?xml version="1.0" encoding="utf-8"?><html><body><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="deltarcm.github.io/feed.xml" rel="self" type="application/atom+xml">
 <link href="deltarcm.github.io/" rel="alternate" type="text/html">
-<updated>2020-04-17T14:43:24+00:00</updated><id>deltarcm.github.io/feed.xml</id><title type="html">DeltaRCM</title>
+<updated>2020-07-06T02:00:45+00:00</updated><id>deltarcm.github.io/feed.xml</id><title type="html">DeltaRCM</title>
 <subtitle>Reduced complexity delta modeling system.</subtitle><entry><title type="html">DeltaRCM website overhaul</title>
 <link href="deltarcm.github.io/blog/03-31-2020/deltarcm-website-overhaul/" rel="alternate" type="text/html" title="DeltaRCM website overhaul">
-<published>2020-03-31T18:40:00+00:00</published><updated>2020-03-31T18:40:00+00:00</updated><id>deltarcm.github.io/blog/03-31-2020/deltarcm-website-overhaul</id><content type="html" xml:base="deltarcm.github.io/blog/03-31-2020/deltarcm-website-overhaul/">&lt;p&gt;This project is beginning to come online, and with that, we needed a new website. 
-Our website now runs off of AWS S3, and is built on Jekyll.&lt;/p&gt;
+<published>2020-03-31T18:40:00+00:00</published><updated>2020-03-31T18:40:00+00:00</updated><id>deltarcm.github.io/blog/03-31-2020/deltarcm-website-overhaul</id><content type="html" xml:base="deltarcm.github.io/blog/03-31-2020/deltarcm-website-overhaul/">&lt;p&gt;This project is beginning to come on-line, and with that, we needed a new website. 
+Our website now runs on GitHub Pages, and is built with Jekyll.&lt;/p&gt;
 
 &lt;p&gt;The site is built using the &lt;a href="https://github.com/riboseinc/jekyll-theme-open-project"&gt;jekyll-theme-open-project&lt;/a&gt; theme, generously provided by Ribose Inc.
 Huge thanks to the developers there for making this awesome theme open source.&lt;/p&gt;
 
-&lt;p&gt;Watch out for more changes coming soon!&lt;/p&gt;</content><author><name></name></author><summary type="html">The DeltaRCM website gets an overhaul.</summary></entry></feed></body></html>
+&lt;p&gt;Watch out for more changes coming soon!&lt;/p&gt;</content><author><name></name></author><category term="website"></category><summary type="html">The DeltaRCM website gets an overhaul.</summary></entry></feed></body></html>

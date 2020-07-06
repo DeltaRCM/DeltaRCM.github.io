@@ -229,9 +229,9 @@ a:link, a:hover, a:visited { color: #A97746; text-decoration: none; }
 
 .main-article .body .admonitionblock .content > div:last-child > :last-child, body.site--project.docs-page > main > section.documentation > article .body .admonitionblock .content > div:last-child > :last-child, body.site--project.layout--spec > main > article .body .admonitionblock .content > div:last-child > :last-child, .layout--post > main > article .body .admonitionblock .content > div:last-child > :last-child { margin-bottom: 0; }
 
-.main-article .body .admonitionblock .content > div:last-child.ulist li:first-child > :first-child, body.site--project.docs-page > main > section.documentation > article .body .admonitionblock .content > div:last-child.ulist li:first-child > :first-child, body.site--project.layout--spec > main > article .body .admonitionblock .content > div:last-child.ulist li:first-child > :first-child, .layout--post > main > article .body .admonitionblock .content > div:last-child.ulist li:first-child > :first-child { margin-top: 0; }
+.main-article .body .admonitionblock .content > div.ulist:last-child li:first-child > :first-child, body.site--project.docs-page > main > section.documentation > article .body .admonitionblock .content > div.ulist:last-child li:first-child > :first-child, body.site--project.layout--spec > main > article .body .admonitionblock .content > div.ulist:last-child li:first-child > :first-child, .layout--post > main > article .body .admonitionblock .content > div.ulist:last-child li:first-child > :first-child { margin-top: 0; }
 
-.main-article .body .admonitionblock .content > div:last-child.ulist li:last-child > :last-child, body.site--project.docs-page > main > section.documentation > article .body .admonitionblock .content > div:last-child.ulist li:last-child > :last-child, body.site--project.layout--spec > main > article .body .admonitionblock .content > div:last-child.ulist li:last-child > :last-child, .layout--post > main > article .body .admonitionblock .content > div:last-child.ulist li:last-child > :last-child { margin-bottom: 0; }
+.main-article .body .admonitionblock .content > div.ulist:last-child li:last-child > :last-child, body.site--project.docs-page > main > section.documentation > article .body .admonitionblock .content > div.ulist:last-child li:last-child > :last-child, body.site--project.layout--spec > main > article .body .admonitionblock .content > div.ulist:last-child li:last-child > :last-child, .layout--post > main > article .body .admonitionblock .content > div.ulist:last-child li:last-child > :last-child { margin-bottom: 0; }
 
 html, body { margin: 0; padding: 0; }
 
@@ -853,9 +853,9 @@ body.site--project.docs-page > main > section.documentation > article > .body .a
 
 body.site--project.docs-page > main > section.documentation > article > .body .admonitionblock .content > div:last-child > :last-child { margin-bottom: 0; }
 
-body.site--project.docs-page > main > section.documentation > article > .body .admonitionblock .content > div:last-child.ulist li:first-child > :first-child { margin-top: 0; }
+body.site--project.docs-page > main > section.documentation > article > .body .admonitionblock .content > div.ulist:last-child li:first-child > :first-child { margin-top: 0; }
 
-body.site--project.docs-page > main > section.documentation > article > .body .admonitionblock .content > div:last-child.ulist li:last-child > :last-child { margin-bottom: 0; }
+body.site--project.docs-page > main > section.documentation > article > .body .admonitionblock .content > div.ulist:last-child li:last-child > :last-child { margin-bottom: 0; }
 
 body.site--project.docs-page > main > section.documentation .docs-nav .external-links ul.nav-items, body.site--project.docs-page > main > section.documentation.docs-landing > article > header .external-links ul.nav-items { list-style: none; margin: 0; padding: 0; }
 
