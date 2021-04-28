@@ -1,8 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<?xml version="1.0" encoding="utf-8"?><html><body><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="deltarcm.github.io/feed.xml" rel="self" type="application/atom+xml">
+<?xml version="1.0" encoding="utf-8"?><html><body><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="deltarcm.github.io/feed.xml" rel="self" type="application/atom+xml">
 <link href="deltarcm.github.io/" rel="alternate" type="text/html">
-<updated>2020-07-22T20:14:05+00:00</updated><id>deltarcm.github.io/feed.xml</id><title type="html">DeltaRCM</title>
-<subtitle>Reduced complexity delta modeling system.</subtitle><entry><title type="html">Creation of a separate repository for the Basic Model Interface</title>
+<updated>2021-04-28T16:22:24+00:00</updated><id>deltarcm.github.io/feed.xml</id><title type="html">DeltaRCM</title>
+<subtitle>Reduced complexity delta modeling system.</subtitle><entry><title type="html">A presentation on pyDeltaRCM and DeltaMetrics for the UTIG Discussion Hour</title>
+<link href="deltarcm.github.io/blog/04-28-2021/UTIG-discussion-hour/" rel="alternate" type="text/html" title="A presentation on pyDeltaRCM and DeltaMetrics for the UTIG Discussion Hour">
+<published>2021-04-28T05:00:00+00:00</published><updated>2021-04-28T05:00:00+00:00</updated><id>deltarcm.github.io/blog/04-28-2021/UTIG-discussion-hour</id><content type="html" xml:base="deltarcm.github.io/blog/04-28-2021/UTIG-discussion-hour/">&lt;p&gt;Jayaram Hariharan, Andrew Moodie, and Eric Barefoot recently made a presentation to the UT Institute for Geophysics discussion group at UTIG.
+The talk provided a high-level overview of some of the efforts the project contributors have made towards both &lt;em&gt;pyDeltaRCM&lt;/em&gt; and &lt;em&gt;DeltaMetrics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href="https://www.youtube.com/watch?v=wFDxGKvnxpo"&gt;view the recorded presentation here.&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=wFDxGKvnxpo"&gt;
+    &lt;img src="/assets/images/2021/youtube_preview.png" alt="Title card for talk" width="800px" /&gt;
+&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="presentations"></category><summary type="html">Jayaram Hariharan, Andrew Moodie, and Eric Barefoot recently made a presentation to the UT Institute for Geophysics discussion group at UTIG. The talk provided a high-level overview of some of the efforts the project contributors have made towards both pyDeltaRCM and DeltaMetrics.</summary></entry><entry><title type="html">Creation of a separate repository for the Basic Model Interface</title>
 <link href="deltarcm.github.io/blog/07-22-2020/bmi-separated/" rel="alternate" type="text/html" title="Creation of a separate repository for the Basic Model Interface">
 <published>2020-07-22T19:50:00+00:00</published><updated>2020-07-22T19:50:00+00:00</updated><id>deltarcm.github.io/blog/07-22-2020/bmi-separated</id><content type="html" xml:base="deltarcm.github.io/blog/07-22-2020/bmi-separated/">&lt;p&gt;We have separated out the &lt;a href="https://bmi.readthedocs.io/en/latest/?badge=latest"&gt;Basic Model Interface (BMI)&lt;/a&gt; implementation of the &lt;a href="https://deltarcm.org/pyDeltaRCM/"&gt;pyDeltaRCM model&lt;/a&gt; into a new repository, named &lt;a href="https://github.com/DeltaRCM/BMI_pyDeltaRCM"&gt;BMI_pyDeltaRCM&lt;/a&gt;.
 Our hope is that separating the BMI from our core model will allow us to keep the login inside the pyDeltaRCM model clearer and more flexible to extension, while still supporting the BMI.
